@@ -1,0 +1,5 @@
+{
+  "name": "Crack Card Game",
+  "description": "A web-based implementation of the card game 'Crack'. Play against the computer, manage your hand, and be the first to get rid of all your cards. Sharable with friends.",
+  "requestFramePermissions": []
+}
